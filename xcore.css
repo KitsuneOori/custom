@@ -163,21 +163,6 @@ a {
 	margin-right: 5px
 }
 
-.guildInner-3DSoA4 a svg g,.guildSeparator-1X4GQ1,.welcomeMessage-3_Mcht .itemContainer-WiE19S,.wordmark-2iDDfm svg path {
-	display: none
-}
-
-.bda-slist .bda-footer a {
-	color: inherit
-}
-
-a[class*=bda-link-website],a[class*=bda-link-source] {
-	background-color: var(--InfoColor);
-	color: #fff;
-	border-radius: 4px;
-	padding: 1.5px 3px
-}
-
 .avatarSpeaking-1wJCNq {
 	box-shadow: 0 0 0 2px var(--SuccesColor)
 }
