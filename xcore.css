@@ -1904,18 +1904,6 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 	margin-left: -7px
 }
 
-.guildsError-3cFMtY {
-	height: 35px;
-	width: 35px;
-	line-height: 30px;
-	color: #fff!important;
-	animation-name: glowOutage;
-	animation-duration: 2s;
-	animation-delay: 0s;
-	animation-iteration-count: infinite;
-	border-color: var(--DangerColor)!important
-}
-
 .tooltip.tooltip-red.tooltip-right:after {
 	border-right-color: var(--DangerColor)
 }
@@ -1926,10 +1914,6 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .noIcon-1a_FrS.iconSizeLarge-161qtT {
 	line-height: 35px
-}
-
-.guilds-wrapper .guilds .guild-icon {
-	background-color: var(--dark)
 }
 
 @keyframes glowOutage {
@@ -2000,10 +1984,6 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 
 .container-2lgZY8,.theme-dark .layer-3QrUeG,.theme-dark .layers-3iHuyZ {
 	background: 0 0!important
-}
-
-.guildInner-3DSoA4 a svg,.guildInner-3DSoA4[style*=background-color] {
-	background-color: transparent!important
 }
 
 .title-3qD0b- {
@@ -2115,10 +2095,6 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 #bda-qem-favourite-container .scroller-wrap,#bda-qem-twitch-container .scroller-wrap {
 	overflow: hidden;
 	overflow-y: scroll
-}
-
-.guild-1EfMGQ .avatar-S_nsxk .inner-1V3pNb {
-	border-radius: 50%;
 }
 
 .bg-AYqtMd,.itemBackground-1YUOje {
