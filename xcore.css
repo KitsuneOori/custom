@@ -163,15 +163,6 @@ a {
 	margin-right: 5px
 }
 
-.bda-slist li {
-	max-height: 300px
-}
-
-.bda-slist .bda-footer {
-	display: flex;
-	overflow: visible
-}
-
 .guildInner-3DSoA4 a svg g,.guildSeparator-1X4GQ1,.welcomeMessage-3_Mcht .itemContainer-WiE19S,.wordmark-2iDDfm svg path {
 	display: none
 }
