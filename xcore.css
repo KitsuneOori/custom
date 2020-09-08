@@ -1300,7 +1300,7 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 }
 
 .guild-1EfMGQ.unread-qLkInr:before {
-	background: var(--WarningColor)!important
+	background: #5fddf3 !important
 }
 
 .theme-dark .friendsOnline-_wi_fM,.theme-light .friendsOnline-_wi_fM {
@@ -1900,24 +1900,8 @@ svg[class=premiumHeaderIcon-bTc_nQ] path {
 	background: 0 0
 }
 
-.theme-dark .guildsWrapper-5TJh6A {
-	background-color: rgba(0,0,0,.45);
-	border-radius: 0!important
-}
-
-.guilds-1q_RqH,.scrollerWrap-1IAIlv {
-	background: 0 0!important
-}
-
 .friendsOnline-_wi_fM {
 	margin-left: -7px
-}
-
-.theme-dark .guildsAdd-21_IdK {
-	background: 0 0;
-	line-height: 30px;
-	color: #fff;
-	border-color: #fff
 }
 
 .guildsError-3cFMtY {
